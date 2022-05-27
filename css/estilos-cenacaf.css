@@ -1,4 +1,14 @@
 /*estilos itinerante*/
+.cncfImg{
+  width: 70%;
+  height: auto;
+  border-radius: 10px;
+  text-align: center;
+}
+.cncf-Align{
+  text-align: center;
+}
+
 
 :root {
   --bs-blue: #0d6efd;
